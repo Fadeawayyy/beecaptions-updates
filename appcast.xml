@@ -2,8 +2,20 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>beeCaptions Updates</title>
-    <link>https://raw.githubusercontent.com/Fadeawayyy/beecaptions-updates/main/appcast.xml</link>
+    <link>https:/$()/raw.githubusercontent.com/Fadeawayyy/beecaptions-updates/main/appcast.xml</link>
     <description>Automatic updates for beeCaptions.</description>
     <language>en</language>
+    <item>
+      <title>Version 1.1</title>
+      <pubDate>Sun, 03 May 2026 23:39:53 +0000</pubDate>
+      <sparkle:version>1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+          url="https:/$()/raw.githubusercontent.com/Fadeawayyy/beecaptions-updates/main/appcast.xml/v1.1/beeCaptions-1.1.dmg"
+          length="44862553"
+          type="application/octet-stream"
+          sparkle:edSignature="j5iiRmEt92wNIVSPA0W6kLevcT+vArtzfBlHdc2yozBRbMaSM8fSOD7EUSn1+Kb7VsAId4OzpDOwZDUmt+dEBw==" length="44862553"/>
+    </item>
   </channel>
 </rss>
