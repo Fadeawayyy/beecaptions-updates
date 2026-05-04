@@ -6,15 +6,15 @@
     <description>Automatic updates for beeCaptions.</description>
     <language>en</language>
     <item>
-      <title>Version 1.4</title>
-      <pubDate>Mon, 04 May 2026 00:13:36 +0000</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <title>Version 1.5</title>
+      <pubDate>Mon, 04 May 2026 00:22:01 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-          url="https://github.com/Fadeawayyy/beecaptions-updates/releases/download/v1.4/beeCaptions-1.4.dmg"
+          url="https://github.com/Fadeawayyy/beecaptions-updates/releases/download/v1.5/beeCaptions-1.5.dmg"
           type="application/octet-stream"
-          sparkle:edSignature="W1MfC/GgIGw9xnfV4llMB9Gheeg1STHQWizB9FQlDLh+deSipH9hfSi/748PDCrTcKgbWxagfBgSkMMjDEOVAw==" length="44864847"/>
+          sparkle:edSignature="HOIUxVYe1Rb1xuFNlgxh75K7YlL3FaxIsAwdO9k19flFKYBrgHj3/e6c5/jtBnFJaSEc1QVd8xdW8hRi8b1ACw==" length="44851725"/>
     </item>
   </channel>
 </rss>
