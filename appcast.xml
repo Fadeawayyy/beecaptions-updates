@@ -7,14 +7,14 @@
     <language>en</language>
     <item>
       <title>Version 1.0</title>
-      <pubDate>Mon, 04 May 2026 01:59:19 +0000</pubDate>
-      <sparkle:version>29</sparkle:version>
+      <pubDate>Mon, 04 May 2026 02:20:54 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
           url="https://github.com/Fadeawayyy/beecaptions-updates/releases/download/v1.0/beeCaptions-1.0.dmg"
           type="application/octet-stream"
-          sparkle:edSignature="x45B+rOHAsx2waPqayBLKin2YNZ0kfU4OsayrtEcjrIKBA9Cl1/GVKEdsJ8DjKCG2J93HYONb8yTfggoXkJiAw==" length="45565921"/>
+          sparkle:edSignature="Za1LJy1uMoRSZAWbqYTxnArSCCCEv070+nEC6P9WF3vtUGa82k8iOHjTaD61WsyedtBNzc3kLsF88l5qjoanCw==" length="44831336"/>
     </item>
   </channel>
 </rss>
